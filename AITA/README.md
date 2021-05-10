@@ -1,12 +1,14 @@
-Création des données AITA. 
+## Création des données AITA. 
 
-Entrées : 
+# Entrées : 
+
 Images des microstructures avant et après deformations ( NAME_trend.bmp )
 
-Sorties : 
+# Sorties : 
+
 Images nb des bordures de grains ( NAME_micro.bmp )
 
-Etapes : 
+# Etapes : 
 1-Executer AITA_segmentation.ipynb
 2-Corriger le fichier NAME_micro.bmp sur un logicile de traitement d'image si nécessaire. 
 3-Executer prune_img.py
