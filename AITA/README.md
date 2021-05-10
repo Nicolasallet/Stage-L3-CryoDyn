@@ -1,7 +1,8 @@
-# Création des données AITA
+# Création des cartes de microstrucures
 
 ## Entrées :    
-Images des microstructures avant et après deformations ( NAME_trend.bmp )
+Donées AITA ( Name_aita.dat )   
+Images des microstructures avant et après deformations ( NAME_trend.bmp )   
 
 ## Sorties :   
 Images nb des bordures de grains ( NAME_micro.bmp )
